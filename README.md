@@ -10,7 +10,7 @@ AWS 클라우드 환경에서 적절한 서비스를 사용하여 가상의 고�
   
 ## 프로젝트 구성원  
 * 고준성 : gojs712@gmail.com  
-* 김예진 : chamdodary@gmail.com  
+* 김예진 : chamdodary@gmail.com [Github](https://github.com/chamdodari2)  
 * 이시영 : jgim7357@gmail.com  
 * 조현기 : jhk1132@gmail.com  
 
