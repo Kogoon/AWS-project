@@ -27,7 +27,7 @@ AWS 클라우드 환경에서 적절한 서비스를 사용하여 가상의 고�
 * [바로가기](https://github.com/Kogoon/fantastic-bassoon)  
   
 ### 인프라(Terraform)
-* [바로가기](https://github.com/Kogoon/verbose-fortnight)  
+* [바로가기](https://github.com/chamdodari2/my-terraform)  
   
 ### 모니터링(Kubernetes)  
 * [바로가기](https://github.com/Kogoon/super-duper-octo-waffle)  
