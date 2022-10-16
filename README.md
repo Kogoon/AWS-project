@@ -32,3 +32,8 @@ AWS 클라우드 환경에서 적절한 서비스를 사용하여 가상의 고�
 ### 모니터링(Kubernetes)  
 * [바로가기](https://github.com/Kogoon/super-duper-octo-waffle)  
   
+  
+* * *
+### 사이트 홈페이지 
+![image](https://user-images.githubusercontent.com/42830744/196024473-c6fe5bea-0944-4f10-a451-928f52f15f49.png)
+
