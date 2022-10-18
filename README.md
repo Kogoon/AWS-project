@@ -25,6 +25,7 @@ AWS 클라우드 환경에서 적절한 서비스를 사용하여 가상의 고�
 
 ### 웹 서버(MSA & Docker)  
 * [바로가기](https://github.com/Kogoon/fantastic-bassoon)  
+* [회원가입](https://github.com/Kogoon/brokurly-register)
   
 ### 인프라(Terraform)
 * [바로가기](https://github.com/chamdodari2/my-terraform)  
